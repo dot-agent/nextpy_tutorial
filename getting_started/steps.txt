@@ -1,0 +1,7 @@
+# Welcome to NEXTPY
+
+1 Install nextpy - pip install nextpy
+2 Create folder for nextpy app - mkdir app-name 
+3 Open folder - cd app-name
+4 Initialize nextpy - nextpy init 
+5 Run app - nextpy run 
