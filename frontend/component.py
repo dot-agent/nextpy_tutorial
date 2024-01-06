@@ -1,5 +1,5 @@
 # Nextpy Frontend 
-## Components in Nextpy
+## Styling in Nextpy
 ### Put this code to your blank template main page.
 
 import nextpy as xt
